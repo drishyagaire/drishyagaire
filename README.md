@@ -2,11 +2,11 @@
 
 # Hey, I'm Drishya 👋
 
-**Computer Enginnering student from Kathmandu 🇳🇵 · I enjoy building things that live on the internet**
+**Computer Engineering student from Kathmandu 🇳🇵 · I enjoy building things that live on the internet**
 
 *...and sometimes making them think too 🧠*
 
-[![Email](https://img.shields.io/badge/Email-gairedrishya2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gairedrishya2003@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-gairedrishya2003-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gairedrishya2003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-drishyagaire-181717?style=for-the-badge&logo=github)](https://github.com/drishyagaire)
 
 </div>
@@ -17,7 +17,7 @@
 
 - 🎓 Fresh Computer Engineering grad, now going deep on full-stack
 - 🤖 Built ML projects involving speech emotion detection & medical imaging
-- 🔭 Currently exploring Backend and System Design 
+- 🔭 Currently exploring Backend and System Design
 - 💼 **Open to work** — let's build something cool!
 
 ---
@@ -52,7 +52,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
 
 ### 📊 GitHub Stats
 
