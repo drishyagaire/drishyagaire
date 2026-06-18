@@ -1,6 +1,6 @@
 # Hi, I'm Drishya 👋
 
-Computer Engineering grad from Kathmandu 🇳🇵 — building full-stack apps and occasionally making them think.
+Computer Engineering student from Kathmandu 🇳🇵 — building full-stack apps and occasionally making them think.
 
 Currently going deep on **backend & system design**. Open to work — let's build something.
 
